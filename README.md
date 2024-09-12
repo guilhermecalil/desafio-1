@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte do **Desafio Docker FullCycle**, onde o
 
 <b>Full Cycle Rocks!!</b>
 
-Além disso, o desafio inclui uma restrição importante: a imagem deve ter menos de 2MB. Utilizamos a linguagem Go para criar um simples programa que exibe a mensagem e otimizamos o tamanho da imagem com uma abordagem de multi-stage build no Docker.
+Além disso, o desafio inclui uma limitação importante: as imagens devem ter menos de 2MB. Criamos um programa simples usando a linguagem Go para exibir mensagens e otimizamos o tamanho da imagem por meio de uma abordagem de construção em vários estágios no Docker.
 
 🛠 Tecnologias Utilizadas
 Go Lang
@@ -25,3 +25,4 @@ Resultado Esperado:
 Ao executar o comando acima, a mensagem Full Cycle Rocks!! será exibida no terminal.
 Full Cycle Rocks!!
 
+Link do Docker Hub: https://hub.docker.com/repository/docker/guilherme587/fullcycle/general
