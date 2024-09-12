@@ -14,7 +14,9 @@ Além disso, o desafio inclui uma limitação importante: as imagens devem ter m
 🛠 Tecnologias Utilizadas
 
 Go Lang
+
 Docker
+
 Docker Hub
 
 📦 Como Usar
