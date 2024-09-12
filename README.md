@@ -24,10 +24,13 @@ Docker Hub
 Para rodar a imagem diretamente do Docker Hub, siga os passos abaixo:
 
 Passo 1: Baixar e executar a imagem
-docker run guilherme587/fullcycle
+
+<b><i>docker run guilherme587/fullcycle</i></b>
 
 Resultado Esperado:
+
 Ao executar o comando acima, a mensagem Full Cycle Rocks!! será exibida no terminal.
+
 Full Cycle Rocks!!
 
 Link do Docker Hub: https://hub.docker.com/repository/docker/guilherme587/fullcycle/general
