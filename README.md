@@ -8,9 +8,7 @@
 
 Este projeto foi desenvolvido como parte do **Desafio Docker FullCycle**, onde o objetivo é criar uma imagem Docker que, ao ser executada, exiba a mensagem:
 
-```bash
 Full Cycle Rocks!!
-
 
 Além disso, o desafio inclui uma restrição importante: a imagem deve ter menos de 2MB. Utilizamos a linguagem Go para criar um simples programa que exibe a mensagem e otimizamos o tamanho da imagem com uma abordagem de multi-stage build no Docker.
 
