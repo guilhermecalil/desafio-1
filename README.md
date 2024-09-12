@@ -11,13 +11,13 @@ Este projeto foi desenvolvido como parte do **Desafio Docker FullCycle**, onde o
 
 Além disso, o desafio inclui uma limitação importante: as imagens devem ter menos de 2MB. Criamos um programa simples usando a linguagem Go para exibir mensagens e otimizamos o tamanho da imagem por meio de uma abordagem de construção em vários estágios no Docker.
 
-<u>🛠 Tecnologias Utilizadas</u>
+🛠 Tecnologias Utilizadas
 
-Go Lang
+- Go Lang
 
-Docker
+- Docker
 
-Docker Hub
+- Docker Hub
 
 📦 Como Usar
 
@@ -25,7 +25,7 @@ Para rodar a imagem diretamente do Docker Hub, siga os passos abaixo:
 
 Passo 1: Baixar e executar a imagem
 
-<b><i>docker run guilherme587/fullcycle</i></b>
+- <b><i>docker run guilherme587/fullcycle</i></b>
 
 Resultado Esperado:
 
