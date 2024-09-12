@@ -31,6 +31,4 @@ Resultado Esperado:
 
 Ao executar o comando acima, a mensagem Full Cycle Rocks!! será exibida no terminal.
 
-Full Cycle Rocks!!
-
 Link do Docker Hub: https://hub.docker.com/repository/docker/guilherme587/fullcycle/general
